@@ -1,6 +1,5 @@
 # 💫 About Me:
-🌍Moro em São Paulo, Brasil<br>✉️Você pode entrar em contato comigo em erikmarquesbenetti07@gmail.com<br>🚀Atualmente estou trabalhando com E-commerce<br>🧠Estou estudando Analise e desenvolvimento de sistemas<br>🤝Estou aberta a proposta para trabalho na área de Programação.<br>⚡Amo esportes e meu preferido é Futebol
-
+🌍Moro em São Paulo, Brasil<br>✉️Você pode entrar em contato comigo em erikmarquesbenetti07@gmail.com<br>🚀Atualmente estou trabalhando com E-commerce<br>🧠Estou estudando Analise e desenvolvimento de sistemas<br>🤝Estou aberto a proposta para trabalho na área de Programação.<br>⚡Amo esportes e meu preferido é Futebol
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ErikMarquesBenetti) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/erik_marques7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/erik-marques-benetti-a16327164) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Erikmarques_7) 
