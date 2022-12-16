@@ -1,4 +1,4 @@
-# 💫 Bem vindo, meu è  Erik  Sou desenvolvedor web
+# 💫 Olá, Meu nome é Erik sou desenvolvedor web
 
 ✉️Você pode entrar em contato comigo em erikmarquesbenetti07@gmail.com
 
