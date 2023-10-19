@@ -1,4 +1,4 @@
-# 💫 Olá, Meu nome é Erik sou desenvolvedor web
+# 💫 Olá, Meu nome é Erik sou Desenvolvedor
 
 ✉️Você pode entrar em contato comigo em erikmarquesbenetti07@gmail.com
 # 📊 GitHub Stats:
